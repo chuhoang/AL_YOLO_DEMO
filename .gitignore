@@ -1,0 +1,5 @@
+weights/
+test_folder/
+al/*.pt
+al/json_val/
+al/json_train/
